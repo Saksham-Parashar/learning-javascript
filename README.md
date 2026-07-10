@@ -1,1 +1,1 @@
-# learning-javascript
+This repository contains mini projects I built while learning and practising core JavaScript concepts using HTML, CSS, and Vanilla JavaScript.
